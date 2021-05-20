@@ -2,50 +2,50 @@ var data = {
     games_data:
         [
             {
-                title: "Hades",
+                title: '<a style="text-decoration:none" href="https://store.steampowered.com/app/1145360/Hades/">Hades</a>',
                 genre: ['Roguelite','All'],
                 dev: "Supergiant Games",
-                image: './images/placeholder-jogos.png',
+                image: 'placeholder-jogos.png',
             }, {
-                title: "Risk Of Rain 2",
+                title: '<a style="text-decoration:none" href="https://store.steampowered.com/app/632360/Risk_of_Rain_2/">Risk Of Rain 2</a>',
                 genre: ["Roguelite",'All'],
                 dev: ["Hopoo Games", "PlayEveryWare"],
-                image: './images/placeholder-jogos.png',
+                image: 'placeholder-jogos.png',
             }, {
-                title: "Realpolitiks 2",
+                title: '<a style="text-decoration:none" href="https://store.steampowered.com/app/1248060/Realpolitiks_II/">Realpolitiks 2</a>',
                 genre: ["Grand-Strategy",'All'],
                 dev: "Jujubee",
-                image: './images/placeholder-jogos.png',
+                image: 'placeholder-jogos.png',
             }, {
-                title: "Hero Siege",
+                title: '<a style="text-decoration:none" href="https://store.steampowered.com/app/269210/Hero_Siege/">Hero Siege</a>',
                 genre: ["RPG",'All'],
                 dev: ["Panic Art Studios", "Elias Viglione", "Jussi Kukkonen"],
-                image: './images/placeholder-jogos.png',
+                image: 'placeholder-jogos.png',
             }, {
-                title: "Stardew Valley",
+                title: '<a style="text-decoration:none" href="https://store.steampowered.com/app/413150/Stardew_Valley/>Stardew Valley</a>',
                 genre: ["Simulation",'All'],
                 dev: ["Eric Barone", "Sickhead Games", "ConcernedApe"],
-                image: './images/placeholder-jogos.png',
+                image: 'placeholder-jogos.png',
             }, {
-                title: "Paralives",
+                title: '<a style="text-decoration:none" href="https://store.steampowered.com/app/1118520/Paralives/">Paralives</a>',
                 genre: ["Simulation",'All'],
                 dev: "Alex Massé",
-                image: './images/placeholder-jogos.png',
+                image: 'placeholder-jogos.png',
             }, {
-                title: "TaleSpire",
+                title: '<a style="text-decoration:none" href="https://store.steampowered.com/app/720620/TaleSpire/">TaleSpire</a>',
                 genre: ["Tabletop",'All'],
                 dev: "Bouncyrock Entertainment",
-                image: './images/placeholder-jogos.png',
+                image: 'placeholder-jogos.png',
             }, {
-                title: "SUPERHOT",
+                title: '<a style="text-decoration:none" href="https://store.steampowered.com/app/322500/SUPERHOT/">SUPERHOT</a>',
                 genre: ["Action",'All'],
                 dev: "SUPERHOT Team",
-                image: './images/placeholder-jogos.png',
+                image: 'placeholder-jogos.png',
             },{
-                title: "Shadowrun Returns",
+                title: '<a style="text-decoration:none". href="https://store.steampowered.com/app/234650/Shadowrun_Returns/">Shadowrun Returns</a>',
                 genre: ["CRPG",'All'],
                 dev: "Harebrained Schemes",
-                image: './images/placeholder-jogos.png',
+                image: 'placeholder-jogos.png',
             },
         ]
 }
