@@ -1,0 +1,33 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: Jogos Borel
+authors: 
+  - family-names: Araújo Resende
+    given-names: Yan 
+  - family-names: de Souza e Sousa 
+    given-names: Luís Antônio
+  - family-names: Lopes Cardoso Rocha
+    given-names: Rafael 
+  - family-names: Maliniak
+    given-names: Lucca 
+  - family-names: de Araújo Mendes
+    given-names: Matheus
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Felipe Dias Ferreira da Rocha
+    given-names: Roberto
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Vieira Carneiro
+    given-names: Rommel
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Ricardo dos Santos Machado
+    given-names: Will
+keywords:
+  - Games Indies
+  - Assistência 
+repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2021-1-ti1-7924100-BrandNewIndie
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2021-06-20
